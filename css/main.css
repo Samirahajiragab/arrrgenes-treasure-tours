@@ -39,6 +39,9 @@ html {
 .banner {
   min-height: 16em;
   color: #fff;
+  min-height: 16em;
+  background-color: #704c2a;
+  color: #fff;
 }
 
 .card {
@@ -75,12 +78,6 @@ html {
   background-color: #522806;
   border-top: .3rem solid #bea59b;
   color: #fff;
-}
-
-.banner {
-min-height: 16em;
-background-color: #704c2a;
-color: #fff;
 }
 
 @media only screen and (min-width: 38em) {
