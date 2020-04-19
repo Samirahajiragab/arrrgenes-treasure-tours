@@ -25,6 +25,7 @@ html {
 .nav a {
   color: #fff;
   text-decoration: none;
+  border: .3rem solid  #704c2a;
 }
 
 .nav a span {
@@ -34,6 +35,7 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
+  border: .3rem solid  #704c2a;
 }
 
 .banner {
